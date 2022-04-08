@@ -1,4 +1,6 @@
 # TensorFlow-Samples
 TensorFlow Samples
 
-# Need add the more sample to the code part
+# Let's learn together
+
+These examples are build on the tensorflow 2.0 framework
